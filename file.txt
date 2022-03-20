@@ -2,3 +2,5 @@ hello friends
 hello friends
 hello friends (again)
 hello friends (again from vs code)
+
+modified again and file3.txt should be ignored and this is the only file that should be modified and pushed
