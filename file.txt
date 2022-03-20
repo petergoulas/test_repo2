@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-hello friends5
-hello friends5
-hello friends5
-hello friends5 
-=======
 hello friends20
 hello friends20
 hello friends20
 hello friends20 
->>>>>>> newF4
