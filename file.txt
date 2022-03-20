@@ -1,6 +1,4 @@
 hello friends3
 hello friends3
-hello friends3 (again)
-hello friends3 (again from vs code)
-
-modified again and file3.txt should be ignored and this is the only file that should be modified and pushed
+hello friends3
+hello friends3 
